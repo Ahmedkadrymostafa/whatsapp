@@ -1,0 +1,8 @@
+{
+    "campaignEnabled": true,
+    "messagesPerHour": 5,
+    "delayBetweenMessages": 10,
+    "delayBetweenHours": 15, 
+    "mediaType": "image", 
+    "mediaPath": "./media/ahmed.jpg" 
+}
